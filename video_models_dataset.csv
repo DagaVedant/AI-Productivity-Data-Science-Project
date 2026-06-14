@@ -1,0 +1,11 @@
+Model Name,Company,Arena Elo (No Audio),Cost per Second (USD),Max Clip Length (Sec),Max Resolution,Native Audio
+Happy Horse 1.0,Alibaba,1293,0.22,10,1080p,Yes
+Seedance 2.0,ByteDance,1274,0.15,20,1080p,Yes
+Kling 3.0,Kuaishou,1250,0.34,15,4K,Yes
+Runway Gen-4.5,Runway,1247,0.05,10,720p,No
+Grok Imagine,xAI,1235,0.07,15,720p,Yes
+Veo 3.1,Google,1245,0.4,60,4K,Yes
+LTX-2 Pro,Lightricks,1135,0.06,20,4K,Yes
+Pika 2.5,Pika,1195,0.03,5,1080p,Limited
+Sora 2,OpenAI,1130,0.1,15,1080p,Yes
+Sora 2 Pro,OpenAI,1150,0.5,25,1080p,Yes

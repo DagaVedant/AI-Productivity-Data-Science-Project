@@ -1,0 +1,14 @@
+Model Name,Company,Arena Elo,Cost per Image (USD),Max Resolution,Weights
+GPT Image 2,OpenAI,1338,0.02,4K,Proprietary
+GPT Image 1.5,OpenAI,1266,0.05,4K,Proprietary
+HiDream-O1-Image-1.5,HiDream,1264,0.03,2K,Open
+Nano Banana 2 (Gemini 3.1 Flash Image),Google,1258,0.02,2K,Proprietary
+Nano Banana Pro (Gemini 3 Pro Image),Google,1218,0.13,4K,Proprietary
+Seedream 4.0,ByteDance,1202,0.03,4K,Proprietary
+Flux 2 Pro,Black Forest Labs,1181,0.04,4K,Proprietary
+Grok Imagine,xAI,1178,0.02,2K,Proprietary
+Imagen 4 Ultra,Google,1173,0.06,2K,Proprietary
+Ideogram 3.0,Ideogram,1132,0.03,2K,Proprietary
+Recraft V4,Recraft,1119,0.04,4K,Proprietary
+Imagen 4 Fast,Google,1064,0.02,2K,Proprietary
+Midjourney v7,Midjourney,1228,0.1,2K,Proprietary

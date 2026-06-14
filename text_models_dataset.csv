@@ -1,0 +1,8 @@
+Model Name,Company,Release Year,Estimated Training Cost (USD Millions),Input Token Cost (USD per 1M Tokens),Output Token Cost (USD per 1M Tokens),Coding Productivity Score,Data Analysis Productivity Score,Literature Research Productivity Score,AA Intelligence Index,Context Window (Tokens),Output Speed (Tokens per Sec),Knowledge Cutoff
+GPT-5.5,OpenAI,2026,500,5.0,30.0,88.7,93.2,92.4,60,1000000,53.2,December 2025
+Gemini 2.5 Pro,Google,2025,250,1.25,10.0,63.8,84.0,89.8,35,1000000,127.7,January 2025
+Gemini 3.1 Pro,Google,2026,350,2.0,12.0,80.6,94.3,90.1,57,1000000,110.1,January 2025
+Claude Sonnet 4.6,Anthropic,2026,200,3.0,15.0,79.6,74.1,91.8,52,1000000,44.5,August 2025
+Claude Opus 4.8,Anthropic,2026,500,5.0,25.0,88.6,93.6,92.0,61,1000000,57.5,January 2026
+Claude Fable 5,Anthropic,2026,750,10.0,50.0,95.0,95.0,91.5,65,1000000,60.3,January 2026
+Grok 4.3,xAI,2026,500,1.25,2.5,70.8,90.1,91.0,53,1000000,143.5,December 2025

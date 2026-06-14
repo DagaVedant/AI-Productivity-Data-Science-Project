@@ -2,7 +2,6 @@ import pandas as pd
 
 data = {
     "Model Name": [
-        "GPT-4o",
         "GPT-5.5",
         "Gemini 2.5 Pro",
         "Gemini 3.1 Pro",
@@ -13,7 +12,6 @@ data = {
     ],
     "Company": [
         "OpenAI",
-        "OpenAI",
         "Google",
         "Google",
         "Anthropic",
@@ -22,7 +20,6 @@ data = {
         "xAI"
     ],
     "Release Year": [
-        2024,
         2026,
         2025,
         2026,
@@ -32,7 +29,6 @@ data = {
         2026
     ],
     "Estimated Training Cost (USD Millions)": [
-        100,
         500,
         250,
         350,
@@ -42,7 +38,6 @@ data = {
         500
     ],
     "Input Token Cost (USD per 1M Tokens)": [
-        2.50,
         5.00,
         1.25,
         2.00,
@@ -52,7 +47,6 @@ data = {
         1.25
     ],
     "Output Token Cost (USD per 1M Tokens)": [
-        10.00,
         30.00,
         10.00,
         12.00,
@@ -62,7 +56,6 @@ data = {
         2.50
     ],
     "Coding Productivity Score": [
-        38.8,
         88.7,
         63.8,
         80.6,
@@ -72,7 +65,6 @@ data = {
         70.8
     ],
     "Data Analysis Productivity Score": [
-        54.3,
         93.2,
         84.0,
         94.3,
@@ -82,7 +74,6 @@ data = {
         90.1
     ],
     "Literature Research Productivity Score": [
-        88.7,
         92.4,
         89.8,
         90.1,
@@ -90,9 +81,45 @@ data = {
         92.0,
         91.5,
         91.0
+    ],
+    "AA Intelligence Index": [
+        60,
+        35,
+        57,
+        52,
+        61,
+        65,
+        53
+    ],
+    "Context Window (Tokens)": [
+        1000000,
+        1000000,
+        1000000,
+        1000000,
+        1000000,
+        1000000,
+        1000000
+    ],
+    "Output Speed (Tokens per Sec)": [
+        53.2,
+        127.7,
+        110.1,
+        44.5,
+        57.5,
+        60.3,
+        143.5
+    ],
+    "Knowledge Cutoff": [
+        "December 2025",
+        "January 2025",
+        "January 2025",
+        "August 2025",
+        "January 2026",
+        "January 2026",
+        "December 2025"
     ]
 }
 
 df = pd.DataFrame(data)
-df.to_csv("ai_models_dataset.csv", index=False)
+df.to_csv("text_models_dataset.csv", index=False)
 print(df.to_string())
